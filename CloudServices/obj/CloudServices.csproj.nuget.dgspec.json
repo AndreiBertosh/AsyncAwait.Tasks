@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EPAM\\Learn\\.NET Intermediate Mentoring Program #1\\Task2\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj": {}
+  },
+  "projects": {
+    "D:\\EPAM\\Learn\\.NET Intermediate Mentoring Program #1\\Task2\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EPAM\\Learn\\.NET Intermediate Mentoring Program #1\\Task2\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj",
+        "projectName": "CloudServices",
+        "projectPath": "D:\\EPAM\\Learn\\.NET Intermediate Mentoring Program #1\\Task2\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj",
+        "packagesPath": "C:\\Users\\Andrei_Bertosh\\.nuget\\packages\\",
+        "outputPath": "D:\\EPAM\\Learn\\.NET Intermediate Mentoring Program #1\\Task2\\AsyncAwait.Tasks\\CloudServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrei_Bertosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://maven.platform.tm.tmcs:8081/nexus/service/local/nuget/Venuemaster-EPAM-Releases/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

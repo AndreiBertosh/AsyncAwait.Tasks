@@ -1,0 +1,9 @@
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\bin\Debug\netcoreapp2.1\CloudServices.deps.json
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\bin\Debug\netcoreapp2.1\CloudServices.dll
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\bin\Debug\netcoreapp2.1\CloudServices.pdb
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.AssemblyInfoInputs.cache
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.AssemblyInfo.cs
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.csproj.CoreCompileInputs.cache
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.dll
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.pdb

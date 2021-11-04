@@ -1,0 +1,13 @@
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.csproj.AssemblyReference.cache
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.AssemblyInfoInputs.cache
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.AssemblyInfo.cs
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.csproj.CoreCompileInputs.cache
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.deps.json
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.runtimeconfig.json
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.runtimeconfig.dev.json
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.dll
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.pdb
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.dll
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.pdb
+D:\EPAM\Learn\.NET Intermediate Mentoring Program #1\Task2\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.genruntimeconfig.cache
